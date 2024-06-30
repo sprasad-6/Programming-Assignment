@@ -12,7 +12,7 @@ that it returns and calculates the final bill for the user.
 > - Select your code file in the code tree, which will open it up in a new VSCode tab.
 > - Drag your assessment code files over to the second column. 
 > - Great work! You can now see instructions and code at the same time. 
-> - Questions about using VSCode? Please see our support resources [here](https://www.coursera.org/learn/programming-in-python/supplement/2IEyt/visual-studio-code-on-coursera).
+ 
 > #### **To run your Python code**
 > - Select your Python file in the Visual Studio Code file tree 
 > - You can right click the file and select "Run Python File in Terminal" 

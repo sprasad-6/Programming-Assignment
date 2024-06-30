@@ -15,7 +15,7 @@ specific limit of words and characters.
 > - Select your code file in the code tree, which will open it up in a new VSCode tab.
 > - Drag your assessment code files over to the second column. 
 > - Great work! You can now see instructions and code at the same time. 
-> - Questions about using VSCode? Please see our support resources [here](https://www.coursera.org/learn/programming-in-python/supplement/2IEyt/visual-studio-code-on-coursera).
+ o-code-on-coursera).
 > #### **To run your Python code**
 > - Select your Python file in the Visual Studio Code file tree 
 > - You can right click the file and select "Run Python File in Terminal" 
@@ -23,8 +23,10 @@ specific limit of words and characters.
     play button in the upper right-hand corner 
 >   of VSCode.  
     (Select "Run Python File in Terminal" in the provided button dropdown)
-> - Alternatively, you can follow lab instructions which use python3 commands to run your code in terminal.
-> 
+> - Alternatively, you can follow lab instructions which use python3 commands to run your code in 
+terminal.
+> - #### To install pytest use -  pip install pytest
+> - ###### To run the test -  python -m pytest test_spellcheck.py 
 
 <br>
 
